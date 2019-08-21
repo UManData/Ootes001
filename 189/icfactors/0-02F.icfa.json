@@ -6,10 +6,67 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.02
+        "error": 0.0026523093935790177,
+        "fit": "Average",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-4539",
+                "uuid": "9e7fbbe1-ef11-4ab0-95db-53857eeb814f"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-01-A-4540",
+                "uuid": "a8558223-254f-44e9-8216-ab90f31d3cec"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-01-A-4541",
+                "uuid": "2b141d27-7cdf-4889-9a83-70af62e422a2"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-4542",
+                "uuid": "48d0707f-18a2-43a0-bd3a-a771024fd087"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-01-A-4543",
+                "uuid": "80af476d-bc5a-4c2d-aaa8-d20d70cb3cb3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-4544",
+                "uuid": "396f1657-7bff-41e4-b7b5-a5c9a54f2596"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-4545",
+                "uuid": "fae36297-f8d9-4cb5-8c28-312ccf8ce833"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-4546",
+                "uuid": "1c3376a7-31d8-4956-a63f-62a7ee00220d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-4547",
+                "uuid": "45028d33-8f8e-4965-9264-97e949e411bb"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-4548",
+                "uuid": "2b3f717c-76f5-4b58-a681-6bf2cc4c5fd0"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-4549",
+                "uuid": "9d41576b-6355-40a0-a6e9-a99e556b3fe0"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0329255573861924
     },
     "H1": {
         "error": 0.0,
